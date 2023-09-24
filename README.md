@@ -1,4 +1,4 @@
-# **Sinequa Search Chrome Extension**
+# **Sinequa Search Browser Extension**
 
 **Sinequa Search Chrome Extension allows users to quickly search in Sinequa directly from their browser toolbar or by selecting text on any webpage.**
 
